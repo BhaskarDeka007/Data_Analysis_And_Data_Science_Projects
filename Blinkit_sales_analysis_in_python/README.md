@@ -24,7 +24,6 @@ These are the main metrics analyzed in this project to evaluate Blinkit's sales 
 - 🧱 **Sales by Outlet Size** – Impact of physical size on performance
 - 🌍 **Sales by Location Type** – Urban vs rural vs tiered city performance
 - 🕰️ **Sales by Establishment Year** – Legacy outlets vs newer ones
-- 🥇 **Top Performing Item Categories** – Most revenue-generating product types
 
 ---
 
@@ -39,6 +38,6 @@ The following visualizations were created to support KPI tracking and insights:
 | 🥧 Pie Chart     | Proportional analysis (e.g., fat content, outlet size)     |
 | 📈 Line Chart    | Year-wise trends in sales performance                      |
 | 📦 Grouped Bars  | Compare two dimensions (e.g., fat content vs outlet tier)  |
-| 📍 Heatmap (opt) | Optional: correlation or density (if added)                |
+
 
 

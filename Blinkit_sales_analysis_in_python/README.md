@@ -45,19 +45,19 @@ The following visualizations were created to support KPI tracking and insights:
   ![Pie Chart](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/Blinkit_sales_analysis_in_python/Outtput%20Images/Bar%20chart%20Fat%20Content%20by%20Outlet%20for%20Total%20Sales.png)
 
 - **Total Sales by Item Type**  
-  ![Pie Chart](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/Blinkit_sales_analysis_in_python/Outtput%20Images/Line_chart_Total%20Sales%20by%20Outlet%20Establishment.png)
+  ![Pie Chart](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/Blinkit_sales_analysis_in_python/Outtput%20Images/bar_chart_sales_by_Item_Type.png)
 
 - **Fat Content by Outlet for Total Sales**  
-  ![Pie Chart](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/Blinkit_sales_analysis_in_python/Outtput%20Images/Pie_chart_Sales%20by%20Outlet%20Size.png)
+  ![Pie Chart]()
 
 - **Total Sales by Outlet Establishment**  
-  ![Bar Chart](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/Blinkit_sales_analysis_in_python/Outtput%20Images/Pie_chart_Total_sales_by_fat_content.png)
+  ![Bar Chart]()
 
 - **Sales by Outlet Size**  
-  ![Line Plot](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/Blinkit_sales_analysis_in_python/Outtput%20Images/Sales%20by%20Outlet%20Location.png)
+  ![Line Plot]()
 
 - **Sales by Outlet Location**  
-  ![Funnel Map](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/Blinkit_sales_analysis_in_python/Outtput%20Images/bar_chart_sales_by_Item_Type.png)
+  ![Funnel Map]()
 
 
 

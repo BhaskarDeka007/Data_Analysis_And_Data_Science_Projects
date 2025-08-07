@@ -57,7 +57,7 @@ The following visualizations were created to support KPI tracking and insights:
   ![Line Plot](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/Blinkit_sales_analysis_in_python/Outtput%20Images/Pie_chart_Sales%20by%20Outlet%20Size.png)
 
 - **Sales by Outlet Location**  
-  ![Funnel Map]()
+  ![Funnel Map](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/Blinkit_sales_analysis_in_python/Outtput%20Images/Sales%20by%20Outlet%20Location.png)
 
 
 

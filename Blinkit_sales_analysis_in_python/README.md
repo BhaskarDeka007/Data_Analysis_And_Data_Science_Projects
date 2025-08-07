@@ -59,6 +59,7 @@ The following visualizations were created to support KPI tracking and insights:
 - **Sales by Outlet Location**  
   ![Funnel Map](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/Blinkit_sales_analysis_in_python/Outtput%20Images/Sales%20by%20Outlet%20Location.png)
 
+---
 
 ## 🎓 Learning Outcomes
 
@@ -70,4 +71,10 @@ Throughout this project, the following skills were applied and developed:
 - 📈 **Created professional-level visual reports using Python**
 - 📢 **Demonstrated storytelling using business KPIs**
 
+---
+
+## 🙋‍♂️ Author
+
+- **Bhaskar Deka**  
+  [GitHub](https://github.com/BhaskarDeka007) • [LinkedIn](https://www.linkedin.com/in/bhaskar-deka-714464258/)
 

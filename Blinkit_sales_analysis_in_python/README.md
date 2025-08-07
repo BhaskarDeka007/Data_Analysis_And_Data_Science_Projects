@@ -39,5 +39,26 @@ The following visualizations were created to support KPI tracking and insights:
 | 📈 Line Chart    | Year-wise trends in sales performance                      |
 | 📦 Grouped Bars  | Compare two dimensions (e.g., fat content vs outlet tier)  |
 
+## 📊 Key Insights
+
+- **Total Sales by Fat Content**  
+  ![Pie Chart]()
+
+- **Total Sales by Item Type**  
+  ![Pie Chart]()
+
+- **Fat Content by Outlet for Total Sales**  
+  ![Pie Chart]()
+
+- **Total Sales by Outlet Establishment**  
+  ![Bar Chart]()
+
+- **Sales by Outlet Size**  
+  ![Line Plot]()
+
+- **Sales by Outlet Location**  
+  ![Funnel Map]()
+
+
 
 

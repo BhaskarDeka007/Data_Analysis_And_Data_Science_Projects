@@ -60,5 +60,11 @@ The following visualizations were created to support KPI tracking and insights:
   ![Funnel Map](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/Blinkit_sales_analysis_in_python/Outtput%20Images/Sales%20by%20Outlet%20Location.png)
 
 
+Learning Outcomes
+Applied real-world data cleaning techniques
+Practiced merging fact and dimension tables (data modeling)
+Gained experience in exploratory data analysis (EDA)
+Created professional-level visual reports using Python
+Demonstrated storytelling using business KPIs
 
 

@@ -48,7 +48,7 @@ The following visualizations were created to support KPI tracking and insights:
   ![Pie Chart](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/Blinkit_sales_analysis_in_python/Outtput%20Images/bar_chart_sales_by_Item_Type.png)
 
 - **Fat Content by Outlet for Total Sales**  
-  ![Pie Chart]()
+  ![Pie Chart](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/Blinkit_sales_analysis_in_python/Outtput%20Images/Bar%20chart%20Fat%20Content%20by%20Outlet%20for%20Total%20Sales.png)
 
 - **Total Sales by Outlet Establishment**  
   ![Bar Chart]()

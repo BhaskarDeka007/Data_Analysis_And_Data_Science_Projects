@@ -29,7 +29,7 @@ The goal of this project is to analyze Shopify sales data in Power BI to uncover
 - **Data Source:** Shopify Sales Export
 - **Data Cleaning & Transformation:** Performed in Power Query  
 - **Measures & KPIs:** Created using DAX in Power BI
-- **Visuals Used:** Funnel chart, line chart, bar chart, KPI cards, slicers
+- **Visuals Used:** Filled Map(Province-level),Density Map(City level),Area Chart, line chart, bar chart, KPI cards, slicers
 
 ---
 

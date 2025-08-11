@@ -20,7 +20,7 @@ The goal of this project is to analyze Shopify sales data in Power BI to uncover
 ---
 
 ## 📊 Dashboard Preview 
-![Dashboard Screenshot 1](link-to-image-1)  
+![Dashboard Screenshot 1](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/Shopify_Sales_and_customer_funnel_report/Assets/Sales%26Customer_funnel_report.png)  
 ![Dashboard Screenshot 2](link-to-image-2)  
 
 ---

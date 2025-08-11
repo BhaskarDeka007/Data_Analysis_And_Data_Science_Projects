@@ -1,12 +1,9 @@
 # Shopify Sales & Customer Funnel Analysis - Power BI
 
 ## 📌 Project Overview
-The goal of this project is to analyze **Shopify sales data** in **Power BI** to uncover meaningful insights into:
-- Transaction performance  
-- Customer purchasing behavior  
-- Long-term customer value  
+The goal of this project is to analyze Shopify sales data in Power BI to uncover meaningful insights into transaction performance, customer purchasing behavior, and long-term customer value. By designing an interactive dashboard, the objective is to help stakeholders identify patterns in revenue generation, customer retention, and engagement trends to support data-driven decision-making.
 
-By designing an interactive dashboard, the objective is to help stakeholders identify **patterns in revenue generation, customer retention, and engagement trends** to support **data-driven decision-making**.
+
 
 ---
 
@@ -18,12 +15,11 @@ By designing an interactive dashboard, the objective is to help stakeholders ide
   - Repeat Customers
 - **Drill-through functionality** for detailed transaction-level insights.
 - **Customer Funnel Analysis** to track user journey from first purchase to repeat orders.
-- **Interactive filters** to explore sales by product, category, region, and time period.
+- **Interactive filters** to explore sales by different types of payment gateway and filtering by provinces.
 
 ---
 
-## 📊 Dashboard Preview
-*(Add your Power BI dashboard images below)*  
+## 📊 Dashboard Preview 
 ![Dashboard Screenshot 1](link-to-image-1)  
 ![Dashboard Screenshot 2](link-to-image-2)  
 

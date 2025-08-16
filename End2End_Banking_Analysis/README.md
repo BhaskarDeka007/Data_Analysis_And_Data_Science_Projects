@@ -48,9 +48,14 @@ Using **Power BI dashboards** along with **SQL and Python-based data analysis**,
 
 ## 📂 Project Structure  
 ├── Data/ # Raw and processed datasets (Excel/CSV)
+---
 ├── Output_Images/ # Exported plots, heatmaps, and visualizations
+---
 ├── PowerBI/ # Power BI dashboard files (.pbix)
+---
 ├── BankingAnalysis.ipynb # Jupyter Notebook (Data Cleaning, EDA, Insights)
+---
 ├── SQL_File.sql # SQL script for importing and managing data
+---
 ├── README.md # Project documentation
 

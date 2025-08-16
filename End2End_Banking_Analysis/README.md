@@ -42,8 +42,11 @@ Using **Power BI dashboards** along with **SQL and Python-based data analysis**,
 ---
 
 ## 📊 Power BI Dashboard (Preview)  
-👉 *(Insert screenshots of your Power BI dashboard here)*  
-
+![Alt Text](https://github.com/username/repo-name/blob/main/images/heatmap.png)
+![Alt Text](https://github.com/username/repo-name/blob/main/images/heatmap.png)
+![Alt Text](https://github.com/username/repo-name/blob/main/images/heatmap.png)
+![Alt Text](https://github.com/username/repo-name/blob/main/images/heatmap.png)
+![Alt Text](https://github.com/username/repo-name/blob/main/images/heatmap.png)
 ---
 
 ## 📂 Project Structure  

@@ -42,11 +42,11 @@ Using **Power BI dashboards** along with **SQL and Python-based data analysis**,
 ---
 
 ## 📊 Power BI Dashboard (Preview)  
-![Alt Text](https://github.com/username/repo-name/blob/main/images/heatmap.png)
-![Alt Text](https://github.com/username/repo-name/blob/main/images/heatmap.png)
-![Alt Text](https://github.com/username/repo-name/blob/main/images/heatmap.png)
-![Alt Text](https://github.com/username/repo-name/blob/main/images/heatmap.png)
-![Alt Text](https://github.com/username/repo-name/blob/main/images/heatmap.png)
+![Alt Text](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/End2End_Banking_Analysis/Output_Images/PowerBI_DashBoard_Images/Home_page.png)
+![Alt Text](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/End2End_Banking_Analysis/Output_Images/PowerBI_DashBoard_Images/Deposit_analysis.png)
+![Alt Text](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/End2End_Banking_Analysis/Output_Images/PowerBI_DashBoard_Images/Loan_analysis.png)
+![Alt Text](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/End2End_Banking_Analysis/Output_Images/PowerBI_DashBoard_Images/Summary.png)
+![Alt Text](https://github.com/BhaskarDeka007/Data_Analysis_Projects/blob/main/End2End_Banking_Analysis/Output_Images/PowerBI_DashBoard_Images/Drill_Through.png)
 ---
 
 ## 📂 Project Structure  
